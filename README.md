@@ -1,6 +1,8 @@
 # frontend
 
-This template should help get you started developing with Vue 3 in Vite.
+# Frontend Vue App for AWS CI/CD Project
+
+This is just a basic Vue application for a CDK AWS CI/CD pipeline to deploy.
 
 ## Recommended IDE Setup
 

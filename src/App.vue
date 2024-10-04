@@ -8,7 +8,7 @@ import HelloWorld from './components/HelloWorld.vue'
     <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
 
     <div class="wrapper">
-      <HelloWorld msg="Welcome to Cloudmancer Media!" />
+      <HelloWorld msg="Welcome to iGR3D!" />
 
       <nav>
         <RouterLink to="/">Home</RouterLink>
